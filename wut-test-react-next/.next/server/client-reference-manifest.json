@@ -131,14 +131,6 @@
       ],
       "async": false
     },
-    "C:\\Users\\reape\\Desktop\\Project\\weusthem-takehome\\wut-test-react-next\\node_modules\\bootstrap\\dist\\css\\bootstrap.css": {
-      "id": "(app-client)/./node_modules/bootstrap/dist/css/bootstrap.css",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
     "C:\\Users\\reape\\Desktop\\Project\\weusthem-takehome\\wut-test-react-next\\src\\app\\components\\ContactTable.tsx": {
       "id": "(app-client)/./src/app/components/ContactTable.tsx",
       "name": "*",
@@ -149,6 +141,14 @@
     },
     "C:\\Users\\reape\\Desktop\\Project\\weusthem-takehome\\wut-test-react-next\\src\\app\\page.module.css": {
       "id": "(app-client)/./src/app/page.module.css",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\reape\\Desktop\\Project\\weusthem-takehome\\wut-test-react-next\\node_modules\\bootstrap\\dist\\css\\bootstrap.css": {
+      "id": "(app-client)/./node_modules/bootstrap/dist/css/bootstrap.css",
       "name": "*",
       "chunks": [
         "app/page:static/chunks/app/page.js"
